@@ -1,3 +1,7 @@
 This is practical 2 
 Pavan is HandSome.
-Pavan looks like JR NTR From one Side.
+<<<<<<< HEAD
+Pavan looks like JR NTR.
+=======
+no hemanth is handsome 
+>>>>>>> d776a063dedf997d1aeb44ef7d57ca6b1a9025f7
